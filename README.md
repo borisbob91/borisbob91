@@ -1,45 +1,28 @@
-# Hi there, I'm Boris! 👋
+### Boris
 
-Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Below you'll find more about me and my projects.
+I build **[OwlLayer AI](https://owllayer.dev)**, an open-source SDK that puts an AI agent inside your own app.
+Your buttons, links and forms become tools the agent can call. Your users just ask, in text or by voice, with
+nothing to install on their side.
 
-## 🚀 About Me
+<p>
+  <a href="https://owllayer.dev"><img src="https://raw.githubusercontent.com/borisbob91/owllayer/dev-integration/docs-site/media/owllayer-demo.gif" width="720" alt="In a demo shop, the user asks by voice for a navy T-shirt, size M, under 50 euros. The agent built into the app searches, filters, opens the product, adds it to the cart and checks out with the tools the page declares, and the payment waits for the user's approval." /></a>
+</p>
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, and data analysis.
-- 📫 How to reach me: boris@example.com
-- ⚡ Fun fact: I love hiking and photography.
+**OwlLayer AI**
 
-## 🛠️ Languages and Tools
+- [owllayer](https://github.com/borisbob91/owllayer): the web SDK, MIT. React, Vue, Svelte, Angular and plain HTML,
+  a server, and adapters for OpenAI, Anthropic, Google, LiveKit and Deepgram.
+- [owllayer-flutter](https://github.com/borisbob91/owllayer-flutter), [owllayer-kotlin](https://github.com/borisbob91/owllayer-kotlin),
+  [owllayer-swift](https://github.com/borisbob91/owllayer-swift): the mobile SDKs, early.
+- Site [owllayer.dev](https://owllayer.dev) · Docs [borisbob91.github.io/owllayer](https://borisbob91.github.io/owllayer/)
+  · Scan your site [owllayer.dev/scan](https://owllayer.dev/scan)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![DRF](https://img.shields.io/badge/-Django%20Rest%20Framework-black?style=flat-square&logo=django)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+**Work with**
 
-## 📈 GitHub Stats
+TypeScript, React, Vue, Svelte, Angular, Node.js, NestJS, Nuxt, Python, Django, Flutter.
 
-![borisbob91's GitHub stats](https://github-readme-stats.vercel.app/api?username=borisbob91&show_icons=true&theme=radical)
+**Contact**
 
-## 📫 Connect with Me
+[contact@owllayer.dev](mailto:contact@owllayer.dev) · [LinkedIn](https://www.linkedin.com/in/borisbob91) · [X](https://x.com/borisbob91)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/borisbob91)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/borisbob91)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-⭐️ From [borisbob91](https://github.com/borisbob91)
+If OwlLayer AI is useful to you, a ⭐ on [the repository](https://github.com/borisbob91/owllayer) helps others find it.
