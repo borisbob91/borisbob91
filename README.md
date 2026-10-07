@@ -23,6 +23,6 @@ TypeScript, React, Vue, Svelte, Angular, Node.js, NestJS, Nuxt, Python, Django, 
 
 **Contact**
 
-[contact@owllayer.dev](mailto:contact@owllayer.dev) · [LinkedIn](https://www.linkedin.com/in/borisbob91) · [X](https://x.com/borisbob91)
+[contact@owllayer.dev](mailto:contact@owllayer.dev) · [X @lepongeob](https://x.com/lepongeob)
 
 If OwlLayer AI is useful to you, a ⭐ on [the repository](https://github.com/borisbob91/owllayer) helps others find it.
